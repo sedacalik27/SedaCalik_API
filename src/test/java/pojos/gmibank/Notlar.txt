@@ -1,0 +1,4 @@
+Seçeneklerimiz:
+1. Country'deki id alanını silerek pojomu oluşturabilirim
+2. Country alanını tamamen silerek pojomu oluşturabilirim
+3. Yeni bir Countrypojo oluşturabilirim. (Eskisinin adını değiştirmeliyim)
